@@ -11,3 +11,5 @@ Current candidates include:
 3. A Julia ABM on coffee rust
 4. R analysis on drought sensitivity https://doi.org/10.1038/s41467-022-30316-5
 5. The code used in `Inverting topography for landscape evolution model process representation` - https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JF004961
+6. https://github.com/comses-education/hydrotrend
+7. https://github.com/comses-education/GIPL-BMI-Fortran
