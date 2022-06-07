@@ -14,6 +14,6 @@ Current candidates include:
 2. The [Communicating Hazard Information in the Modern Environment](https://github.com/comses-education/chime-abm) agent based model (also NetLogo)
 3. [A Julia ABM on coffee leaf rust](https://github.com/comses-education/spatialrust)
 4. [R analysis on drought sensitivity](https://github.com/comses-education/drought-year-sensitivity) https://doi.org/10.1038/s41467-022-30316-5
-5. [The code](https://github.com/comses-education/csdms_inverting_topography_postglacial) used in `Inverting topography for landscape evolution model process representation` - https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JF004961
+5. [The code](https://github.com/comses-education/csdms_inverting_topography_postglacial) used in [Inverting topography for landscape evolution model process representation](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JF004961)
 6. https://github.com/comses-education/hydrotrend
 7. https://github.com/comses-education/GIPL-BMI-Fortran
