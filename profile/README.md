@@ -23,3 +23,8 @@ Template repositories under development:
 
 - [FAIR+ OSG template](https://github.com/comses-education/fair-osg-template)
 - [Reusable Building Blocks](https://github.com/comses-education/reusable-building-blocks-template)
+
+References and possible collabs:
+
+- https://github.com/mkrapp/cookiecutter-reproducible-science
+- https://carpentries-incubator.github.io/good-enough-practices/index.html
