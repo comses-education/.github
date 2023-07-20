@@ -17,7 +17,12 @@ Current candidates include:
 5. The [code](https://github.com/comses-education/csdms_inverting_topography_postglacial) used in [Inverting topography for landscape evolution model process representation](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JF004961)
 6. https://github.com/comses-education/hydrotrend
 7. https://github.com/comses-education/GIPL-BMI-Fortran
-8. https://swim.cybershare.utep.edu/en/home
+
+Hydrological model candidates:
+- [SWIM](https://swim.cybershare.utep.edu/en/home)
+- [WRF-HYDRO](https://ral.ucar.edu/projects/wrf_hydro)
+- TOPMODEL - https://csdms.colorado.edu/wiki/Model:TOPMODEL https://github.com/NOAA-OWP/topmodel
+- [CFE](https://github.com/NOAA-OWP/cfe)
 
 Template repositories under development:
 
