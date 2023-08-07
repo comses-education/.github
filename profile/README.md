@@ -17,6 +17,7 @@ Current candidates include:
 5. The [code](https://github.com/comses-education/csdms_inverting_topography_postglacial) used in [Inverting topography for landscape evolution model process representation](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JF004961)
 6. https://github.com/comses-education/hydrotrend
 7. https://github.com/comses-education/GIPL-BMI-Fortran
+8. Dakota SWASH Parameter Study: https://github.com/comses-education/dakota-swash-parameter-study
 
 Hydrological model candidates:
 - [SWIM](https://swim.cybershare.utep.edu/en/home)
