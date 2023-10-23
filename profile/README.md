@@ -6,7 +6,7 @@ We are developing training modules, assessments, and certificates and badges on 
 
 ### Codebase Augmentation Pilot Project
 
-We are collecting a diverse set of computational models from different domains with different input / output characteristics and manually augmenting them to be more FAIR (if needed) and to add containerization that supports execution on the [Open Science Grid]([https://opensciencegrid.org/](https://osg-htc.org/)). 
+We are collecting a diverse set of computational models from different domains with different input / output characteristics and manually augmenting them to be more FAIR (if needed) and to add containerization that supports execution on the [Open Science Grid Consortium's OSPool](https://osg-htc.org/). 
 
 If you'd like to help us pilot these materials and provide early feedback, or if you have any computational models you'd like us to consider for the codebase augmentation pilot project, please [let us know!](https://www.comses.net/about/contact/)
 
@@ -29,7 +29,7 @@ Hydrological model candidates:
 
 Template repositories and educational materials under development:
 
-- [Cookiecutter NetLogo Open Science Grid template](https://github.com/comses-education/cookiecutter-netlogo-osg) - **now available for testing!**
+- [Cookiecutter NetLogo OSG template](https://github.com/comses-education/cookiecutter-netlogo-osg) - **now available for testing!**
 - [FAIR+ OSG template](https://github.com/comses-education/fair-osg-template) - still under active development
 - [Reusable Building Blocks](https://github.com/comses-education/reusable-building-blocks-template) - still under active development
 - [Carpentries' Good Enough Practices for Scientific Computing lesson](https://github.com/carpentries-lab/good-enough-practices)
