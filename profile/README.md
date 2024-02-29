@@ -20,11 +20,11 @@ Current candidates include:
 6. https://github.com/comses-education/hydrotrend
 7. https://github.com/comses-education/GIPL-BMI-Fortran
 8. Dakota SWASH Parameter Study: https://github.com/comses-education/dakota-swash-parameter-study
+9. TOPMODEL with BMI support (in progress) - https://csdms.colorado.edu/wiki/Model:TOPMODEL and https://github.com/NOAA-OWP/topmodel
 
 Hydrological model candidates:
 - [SWIM](https://swim.cybershare.utep.edu/en/home)
 - [WRF-HYDRO](https://ral.ucar.edu/projects/wrf_hydro)
-- TOPMODEL - https://csdms.colorado.edu/wiki/Model:TOPMODEL and https://github.com/NOAA-OWP/topmodel
 - [CFE](https://github.com/NOAA-OWP/cfe)
 
 Template repositories and educational materials under development:
