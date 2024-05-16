@@ -21,6 +21,7 @@ Current candidates include:
 7. https://github.com/comses-education/GIPL-BMI-Fortran
 8. Dakota SWASH Parameter Study: https://github.com/comses-education/dakota-swash-parameter-study
 9. TOPMODEL with BMI support (in progress) - https://csdms.colorado.edu/wiki/Model:TOPMODEL and https://github.com/NOAA-OWP/topmodel
+10. GeoClaw - https://github.com/clawpack/geoclaw
 
 Hydrological model candidates:
 - [SWIM](https://swim.cybershare.utep.edu/en/home)
