@@ -16,12 +16,13 @@ Current candidates include:
 2. The [Communicating Hazard Information in the Modern Environment](https://github.com/comses-education/chime-abm) agent based model (NetLogo)
 3. [A Julia ABM on coffee leaf rust](https://github.com/comses-education/spatialrust)
 4. [R analysis on drought sensitivity](https://github.com/comses-education/drought-year-sensitivity) https://doi.org/10.1038/s41467-022-30316-5
-5. The [code](https://github.com/comses-education/csdms_inverting_topography_postglacial) used in [Inverting topography for landscape evolution model process representation](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JF004961)
-6. https://github.com/comses-education/hydrotrend
-7. https://github.com/comses-education/GIPL-BMI-Fortran
-8. Dakota SWASH Parameter Study: https://github.com/comses-education/dakota-swash-parameter-study
-9. TOPMODEL with BMI support (in progress) - https://csdms.colorado.edu/wiki/Model:TOPMODEL and https://github.com/NOAA-OWP/topmodel
-10. GeoClaw - https://github.com/clawpack/geoclaw
+6. The [code](https://github.com/comses-education/csdms_inverting_topography_postglacial) used in [Inverting topography for landscape evolution model process representation](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JF004961)
+7. https://github.com/comses-education/hydrotrend
+8. https://github.com/comses-education/GIPL-BMI-Fortran
+9. Dakota SWASH Parameter Study: https://github.com/comses-education/dakota-swash-parameter-study
+10. TOPMODEL with BMI support (in progress) - https://csdms.colorado.edu/wiki/Model:TOPMODEL and https://github.com/NOAA-OWP/topmodel
+11. GeoClaw - https://github.com/clawpack/geoclaw
+12. [ADRIA](https://github.com/open-AIMS/ADRIA.jl)
 
 Hydrological model candidates:
 - [SWIM](https://swim.cybershare.utep.edu/en/home)
@@ -38,4 +39,4 @@ Template repositories and educational materials under development:
 References and possible collabs:
 
 - https://github.com/mkrapp/cookiecutter-reproducible-science
-- https://carpentries-incubator.github.io/good-enough-practices/index.html
+- [Carpentries Good Enough Practices lesson](https://github.com/carpentries-lab/good-enough-practices)
