@@ -6,11 +6,11 @@ We are developing training modules, assessments, and certificates and badges on 
 
 ### Codebase Augmentation Pilot Project
 
-We are collecting a diverse set of computational models from different domains with different input / output characteristics and manually augmenting them to be more FAIR (if needed) and to add containerization that supports execution on the [Open Science Grid Consortium's OSPool](https://osg-htc.org/). 
+We are collecting a diverse set of computational models from different domains with different input / output characteristics and manually augmenting them to be _FAIR+_ and to add containerization that supports execution on the [Open Science Grid Consortium's OSPool](https://osg-htc.org/).
 
 If you'd like to help us pilot these materials and provide early feedback, or if you have any computational models you'd like us to consider for the codebase augmentation pilot project, please [let us know!](https://www.comses.net/about/contact/)
 
-Current candidates include:
+Current candidates include all the models suggested by the [Making Models FAIR Initiative](https://www.tobefair.org) as well as the following models:
 
 1. The example [wolf sheep predation model from NetLogo](https://github.com/comses-education/wolf-sheep-osg)
 2. The [Communicating Hazard Information in the Modern Environment](https://github.com/comses-education/chime-abm) agent based model (NetLogo)
